@@ -20,8 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('About', '/about'),
-         ('Archive', '/archive'),)
+LINKS = (('About', '/authors'),
+         ('Archive', '/archives'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
