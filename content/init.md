@@ -1,6 +1,6 @@
 Title: Introducing myself
 Date: 2019-05-19 21:35
-Category: Review
+Category: personal
 
 Hi! My name is Carlos. I'm a passionate software engineer with 5+ years of experience from 🇪🇸 Spain.
 
