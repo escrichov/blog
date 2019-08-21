@@ -6,7 +6,8 @@ from datetime import datetime
 
 AUTHOR = 'Carlos E'
 SITENAME = 'CE Blog'
-SITEURL = ''
+#SITEURL = '/'
+RELATIVE_URLS = True
 
 PATH = 'content'
 
