@@ -49,7 +49,9 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 
-MENUITEMS = (('Archives', '/archives'), )
+MENUITEMS = (
+    ('Archives', '/archives'),
+)
 
 # Plugings
 PLUGIN_PATHS = ['pelican-plugins']
