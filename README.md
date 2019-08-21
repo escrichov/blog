@@ -52,6 +52,19 @@ If you need to deploy manually you need to run this command:
 pipenv run make publish && netlify deploy
 ```
 
+## Create blog entry
+
+1. Create new markdown file in content folder. Copy template file from
+
+    ```
+    cp template-entry.md content/new-blog-post.md
+    ```
+
+2. Edit blog post
+
+3. The order of blog post is set with the Date.
+
+
 ## Built With
 
 * [Pelican](https://github.com/getpelican/pelican) - The static site generator used
