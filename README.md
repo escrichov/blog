@@ -49,7 +49,7 @@ Deployment is configured to automatically deploy blog when you push to github.
 
 If you need to deploy manually you need to run this command:
 ```
-netlify deploy
+pipenv run make publish && netlify deploy
 ```
 
 ## Built With
